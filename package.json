@@ -19,6 +19,7 @@
     "react-dom": "19.2.4"
   },
   "devDependencies": {
+    "@railway/cli": "^4.59.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
     "prisma": "^6.4.0"
